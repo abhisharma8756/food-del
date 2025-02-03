@@ -6,7 +6,7 @@ import Cart from "./pages/cart/Cart";
 import PlaceOrder from "./pages/placeOrder/PlaceOrder";
 import Footer from "./component/footer/Footer";
 import { useState } from "react";
-import LoginPopUp from "./component/loginPopUp/LoginPopUp";
+import LoginPopUp from "./component/LoginPopUp/LoginPopUp";
 import Verify from "./pages/verify/Verify";
 import MyOrders from "./pages/myOrders/MyOrders";
 
